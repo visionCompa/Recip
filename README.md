@@ -1,3 +1,3 @@
 # Recip
-project name : chef 
+project name : chef appliation
 Gui:
