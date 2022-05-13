@@ -1,5 +1,5 @@
 # Recip
-# project name : chef appliation
+# project name : chef application
 # Team members +work:https://docs.google.com/document/d/1PssvYu_NJGrh-qVbGhcLg0fiA60fCd7D/edit
 # Gui: https://docs.google.com/document/d/1wntNIf5k-fW85yPna-TWunkbxGTeHqdT/edit
 # Slack holder :
