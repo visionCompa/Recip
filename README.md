@@ -10,3 +10,4 @@
 # sequnse diagram :https://drive.google.com/drive/my-drive
 # Daily meeting :https://docs.google.com/document/d/18Lv3NnpXknKiA09m9X6LCv3YpP84nNGi/edit
 # Burndown Chart :https://docs.google.com/document/d/1rrHBjzw51qGjShNW36UQkw-2YESqKhll/edit 
+# Pair programming :https://docs.google.com/document/d/13xBydNsGD8UikskJYihY8aEprNgMPsLR/edit?usp=drive_web&ouid=108454402418239401460&rtpof=true
